@@ -1,0 +1,30 @@
+[
+  {
+    "name" : "Mert Ozdil",
+    "age" : "21",
+    "height" : "184",
+    "gender" : "male",
+    "hair_color" : "black"
+  },
+  {
+    "name" : "Tahsin Sel",
+    "age" : "20",
+    "height" : "194",
+    "gender" : "male",
+    "hair_color" : "blue"
+  },
+  {
+  "name" : "Baris Su",
+  "age" : "25",
+  "height" : "174",
+  "gender" : "male",
+  "hair_color" : "yellow"
+  },
+  {
+    "name" : "Mustafa Keser",
+    "age" : "36",
+    "height" : "152",
+    "gender" : "male",
+    "hair_color" : "white"
+  }
+]
